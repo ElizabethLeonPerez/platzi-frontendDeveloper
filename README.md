@@ -1,1 +1,1 @@
-# platzi-frontendDeveloper
+# Curso de Frontend Developer
